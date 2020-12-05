@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrankMod", "FrankMod.csproj", "{9F0268B4-9598-402D-8A83-BE07CF2040CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F0268B4-9598-402D-8A83-BE07CF2040CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F0268B4-9598-402D-8A83-BE07CF2040CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F0268B4-9598-402D-8A83-BE07CF2040CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F0268B4-9598-402D-8A83-BE07CF2040CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FC52752-306A-4B76-9740-6CDFFFD18B29}
+	EndGlobalSection
+EndGlobal
